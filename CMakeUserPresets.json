@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\Users\\Riba\\Desktop\\mario_map_creator\\build\\CMakePresets.json"
+    ]
+}

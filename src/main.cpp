@@ -43,7 +43,7 @@ int main()
     char current = 'X';
 
     sf::Font font;
-    if(!font.loadFromFile("Roboto-Regular.ttf"))
+    if(!font.loadFromFile("../Roboto-Regular.ttf"))
     {
         std::cout<<"Error loading font"<<std::endl;
         return 0;
